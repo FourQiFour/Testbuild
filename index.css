@@ -221,4 +221,8 @@ section.p {
   -webkit-transform: scale(120%);
           transform: scale(120%);
 }
+
+#forpad {
+padding-bottom: .5em;
+}
 /*# sourceMappingURL=Personalpage.css.map */
