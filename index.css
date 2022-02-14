@@ -138,6 +138,7 @@ body {
 #Goals:hover {
   -webkit-transform: scale(110%);
           transform: scale(110%);
+          margin-bottom: 35px;
 }
 
 section.p {
